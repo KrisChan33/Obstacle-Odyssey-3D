@@ -1,2 +1,2 @@
-# Obstacle-Odyssey-3D-1
+# Obstacle-Odyssey-3D
 A Game project that I created in subject of CC6-Application Development
