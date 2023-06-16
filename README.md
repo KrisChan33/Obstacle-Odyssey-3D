@@ -117,10 +117,7 @@ Trophies: The player may earn trophies and achievements for completing certain c
  
 ### Built With</p>
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-
-- [Godot Engine](https://godotengine.org/)
+This section  list are the major  used to to develop the Project.
 
 - [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html)
 
