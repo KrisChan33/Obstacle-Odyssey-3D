@@ -122,6 +122,8 @@ This section  list are the major  used to to develop the Project.
 - [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html)
 
 - [Mixamo: Character](https://godotengine.org/)
+  
+- [Blender](https://www.blender.org/)
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -224,7 +226,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Mixamo](https://www.mixamo.com/)
 * [Turbo Squid](https://www.turbosquid.com/)
 * [Freepik](https://www.freepik.com/3d-models)
-*)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
