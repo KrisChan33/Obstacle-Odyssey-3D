@@ -1,8 +1,4 @@
-   
-<p align="center"> 
-  <img align = "center" src = "https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Logo.png">
-</p>
-
+ 
 # Obstacle-Odyssey-3D
 A Game project that I created in subject of CC6-Application Development
 
@@ -36,7 +32,11 @@ Obstacle Odyssey 3D is a Free and Open-Source Obstacle game made with the [Godot
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+
 <br />
+<p align="center"> 
+  <img align = "center" src = "https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Logo.png">
+</p>
 
 
 
