@@ -58,7 +58,7 @@ Obstacle Odyssey 3D is a Free and Open-Source Obstacle game made with the [Godot
 ## Game Overview
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-<div text-align = "Justify">
+<div align = "Justify">
 ### Goal 
 <p>The goal is usually to collect all the coins or complete a series of challenges within a level or set of levels. The game may involve a character navigating through a three-dimensional environment, jumping over obstacles, and avoiding hazards in order to collect the coins or complete the challenges.</p> 
 
