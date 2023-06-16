@@ -121,7 +121,7 @@ _Below is an example of how you can instruct your audience on installing and set
 4. Done 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-</div>
+
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -132,6 +132,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+</div>
 
 
 <!-- ROADMAP -->
