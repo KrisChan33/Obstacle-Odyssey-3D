@@ -123,7 +123,6 @@ This section  list are the major  used to to develop the Project.
 
 - [Mixamo: Character](https://godotengine.org/)
   
-- [Blender](https://www.blender.org/)
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -220,10 +219,11 @@ Email Address: Ktadeo.pbox@parsu.edu.ph
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+ this space is list of resources I find helpful and would like to give credits to the following: 
 
 * [Godot engine](https://godotengine.org/)
 * [Mixamo](https://www.mixamo.com/)
+* [Blender](https://www.blender.org/)
 * [Turbo Squid](https://www.turbosquid.com/)
 * [Freepik](https://www.freepik.com/3d-models)
 
