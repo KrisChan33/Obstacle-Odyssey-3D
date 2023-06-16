@@ -33,15 +33,13 @@ Obstacle Odyssey 3D is a Free and Open-Source Obstacle game made with the [Godot
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
-   <li>
+    <li>
       <a href="#Game-Overview">Game Overview</a>
       <ul>
-         <li><a href ="#Goal">Goal</li>
+        <li><a href ="#Goal">Goal</li>
          <li><a href ="#Character">Character</li>
          <li><a href ="#Mechanics">Mechanics</li>
          <li><a href ="#Interaction">Interaction</li>
@@ -49,6 +47,33 @@ Obstacle Odyssey 3D is a Free and Open-Source Obstacle game made with the [Godot
          <li><a href ="#Rewards">Rewards</li>
          <li><a href="#built-with">Built With</a></li>
          <li><a href ="#Developer">Developer</li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+   <li>
+     
+      <ul>
+        
    <li>
       <a href="#Game-Overview">Game Overview</a>
       <a href="#Game-Overview">Game Overview</a>
