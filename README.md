@@ -55,9 +55,9 @@ Obstacle Odyssey 3D is a Free and Open-Source Obstacle game made with the [Godot
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/KrisChan/Obstacle-Odyssey-3D">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/oKrisChan/Obstacle-Odyssey-3D/issues">Report Bug</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
@@ -188,7 +188,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/KrisChan33/Obstacle-Odyssey-3D/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -262,7 +262,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [issues-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/issues
 [license-shield]: https://img.shields.io/github/license/KrisChan33/Obstacle-Odyssey-3D.svg?style=for-the-badge
 [license-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/master/LICENSE.txt
-[linkedin-url]: https://linkedin.com/in/kristian-jay-tadeo
+[linkedin-url]: https://linkedin.com/in/kristianjaytadeo
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
