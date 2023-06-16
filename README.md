@@ -63,6 +63,7 @@ Obstacle Odyssey 3D is a Free and Open-Source Obstacle game made with the [Godot
 <p>The goal is usually to collect all the coins or complete a series of challenges within a level or set of levels. The game may involve a character navigating through a three-dimensional environment, jumping over obstacles, and avoiding hazards in order to collect the coins or complete the challenges.</p> 
 
 ### Character
+
 <img >
 <p>An adventurous kid wants to explore and challenge himself. He is wearing red hat, brown boots, green shirts and blue short.
 <br />
@@ -75,19 +76,23 @@ The character may have a health bar or lives that decrease when they take damage
 ### Mechanics
 
 ![Movement](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/mechanics.png)
-<p><i>Movement</i>: The player controls a character that can move in all three dimensions. The character can walk, run, jump, and sometimes even fly or swim to navigate through the game's environment.</p>
+<i>Movement</i>: The player controls a character that can move in all three dimensions. The character can walk, run, jump, and sometimes even fly or swim to navigate through the game's environment.
 
 ![Obstacle](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/Obstacle.png)
-<p><i>Obstacles</i>: The game is filled with various obstacles that the player must avoid or overcome. These can include physical barriers like walls and fences, pits and gaps that must be jumped over, and moving platforms that require careful timing and precision.
-### Built With</p>
+<i>Obstacles</i>: The game is filled with various obstacles that the player must avoid or overcome. These can include physical barriers like walls and fences, pits and gaps that must be jumped over, and moving platforms that require careful timing and precision.
 
 ![Challenges](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/Challenges.png)
-<p><i> Challengess</i>: In addition to avoiding obstacles, the game may have challenges that the player must complete to progress through the levels. These challenges may involve puzzles, mini-games, or tasks that must be completed within a certain time limit.
+<i> Challengess</i>: In addition to avoiding obstacles, the game may have challenges that the player must complete to progress through the levels. These challenges may involve puzzles, mini-games, or tasks that must be completed within a certain time limit.
 
 ![Collectibles](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/Collectibles.png)
-<p><i>Collectibles</i>: Many 3D obstacle games have collectibles scattered throughout the levels, such as coins. These items may be used to increase the player's score, enhance their abilities, or unlock new levels or characters
+<i>Collectibles</i>: Many 3D obstacle games have collectibles scattered throughout the levels, such as coins. These items may be used to increase the player's score, enhance their abilities, or unlock new levels or characters
 
-   
+![HealthandLives](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/HealthandLives.png)
+<i>Health and lives</i>: The player's character may have a limited amount of health or lives that decrease when they take damage from obstacles or hazards. If the character loses all of their health or lives, the game ends and the player must restart from the beginning or a checkpoint.
+
+### Interaction
+In a 3D obstacle Odyssey game, the player interacts with the game using controls to move the character and navigate obstacles, adjust the camera angle, use strategy to solve challenges, collect items to progress and increase the score, avoid losing health and lives, and complete challenges to unlock new levels or characters. The game requires the player's active participation and attention to overcome obstacles and progress through the game.
+
 ### Built With</p>
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
