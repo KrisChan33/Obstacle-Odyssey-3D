@@ -141,7 +141,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Copy The Link Below And Paste in the Search box of your Web Browser
   ```sh
-"https://drive.google.com/drive/folders/1mcpxdEI2BsSKup6ooIHAS56lo4CYjogN?usp=share_link"
+   https://drive.google.com/drive/folders/1mcpxdEI2BsSKup6ooIHAS56lo4CYjogN?usp=share_link
    ```
 2. Download The File
 
