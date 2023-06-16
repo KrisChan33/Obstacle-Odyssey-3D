@@ -1,6 +1,6 @@
    # Obstacle-Odyssey-3D
 
-  <img align="center" src = "https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Logo.png">
+  <img align = "center" src = "https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Logo.png">
   
 A Game project that I created in subject of CC6-Application Development
 
