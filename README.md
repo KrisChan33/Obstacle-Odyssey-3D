@@ -122,13 +122,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <ul>
  <li>
 [Godot Engine](https://godotengine.org/)
-   <li>
- 
- <li>
+
 [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html)
- </li>
- 
- <li>
+
 [Mixamo: Character](https://godotengine.org/)
  </li>
 
