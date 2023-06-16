@@ -229,7 +229,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [issues-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/issues
 [license-shield]: https://img.shields.io/github/license/KrisChan33/Obstacle-Odyssey-3D.svg?style=for-the-badge
 [license-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/master/LICENSE.txt
-[linkedin-url]: https://linkedin.com/in/kristianjaytadeo
+[linkedin-url]: https://linkedin.com/in/kristian-jay-tadeo
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
