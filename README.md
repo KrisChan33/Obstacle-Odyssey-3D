@@ -119,8 +119,7 @@ Trophies: The player may earn trophies and achievements for completing certain c
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Godot][Godot]][Godot-url]
-* [![Godot][GDScript]][Godot-url]
+
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
