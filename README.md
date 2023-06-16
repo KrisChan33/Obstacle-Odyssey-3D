@@ -215,6 +215,8 @@ Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.c
 
 Project Link: [https://github.com/KrisChan33/Obstacle-Odyssey-3D](https://github.com/KrisChan33/Obstacle-Odyssey-3D)
 
+Email Address: Ktadeo.pbox@parsu.edu.ph
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
