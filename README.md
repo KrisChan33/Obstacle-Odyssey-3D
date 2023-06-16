@@ -73,11 +73,22 @@ The character may have a health bar or lives that decrease when they take damage
 </p>
 
 ### Mechanics
-![Mech1](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/mechanics.png)
+
+![Movement](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/mechanics.png)
 <p><i>Movement</i>: The player controls a character that can move in all three dimensions. The character can walk, run, jump, and sometimes even fly or swim to navigate through the game's environment.</p>
 
+![Obstacle](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/Obstacle.png)
+<p><i>Obstacles</i>: The game is filled with various obstacles that the player must avoid or overcome. These can include physical barriers like walls and fences, pits and gaps that must be jumped over, and moving platforms that require careful timing and precision.
+### Built With</p>
 
-### Built With
+![Challenges](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/Challenges.png)
+<p><i> Challengess</i>: In addition to avoiding obstacles, the game may have challenges that the player must complete to progress through the levels. These challenges may involve puzzles, mini-games, or tasks that must be completed within a certain time limit.
+
+![Collectibles](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/Collectibles.png)
+<p><i>Collectibles</i>: Many 3D obstacle games have collectibles scattered throughout the levels, such as coins. These items may be used to increase the player's score, enhance their abilities, or unlock new levels or characters
+
+   
+### Built With</p>
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
