@@ -119,11 +119,16 @@ Trophies: The player may earn trophies and achievements for completing certain c
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-
+<ul>
+ <li>
 [Godot Engine](https://godotengine.org/)
+  
 [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html)
-[Mixamo: Character](https://godotengine.org/)
 
+[Mixamo: Character](https://godotengine.org/)
+ <li>
+
+</ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
