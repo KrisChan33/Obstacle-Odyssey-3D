@@ -64,7 +64,6 @@ Obstacle Odyssey 3D is a Free and Open-Source Obstacle game made with the [Godot
 
 ### Character
 
-<img >
 <p>An adventurous kid wants to explore and challenge himself. He is wearing red hat, brown boots, green shirts and blue short.
 <br />
 The character is typically agile and able to move quickly, jump high, and perform other actions necessary to navigate through the three-dimensional environment and overcome obstacles. The character may also have special abilities or powers that can be used to overcome specific challenges in the game.
@@ -82,13 +81,13 @@ The character may have a health bar or lives that decrease when they take damage
   <b><i>Obstacles</i><b>: The game is filled with various obstacles that the player must avoid or overcome. These can include physical barriers like walls and fences, pits and gaps that must be jumped over, and moving platforms that require careful timing and precision.
 
 ![Challenges](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/Challenges.png)
-   <i> Challengess</i>: In addition to avoiding obstacles, the game may have challenges that the player must complete to progress through the levels. These challenges may involve puzzles, mini-games, or tasks that must be completed within a certain time limit.
+&nbsp;&nbsp;&nbsp;&nbsp;<i> Challengess</i>: In addition to avoiding obstacles, the game may have challenges that the player must complete to progress through the levels. These challenges may involve puzzles, mini-games, or tasks that must be completed within a certain time limit.
 
 ![Collectibles](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/Collectibles.png)
-   <i>Collectibles</i>: Many 3D obstacle games have collectibles scattered throughout the levels, such as coins. These items may be used to increase the player's score, enhance their abilities, or unlock new levels or characters
+&nbsp;&nbsp;&nbsp;&nbsp;<i>Collectibles</i>: Many 3D obstacle games have collectibles scattered throughout the levels, such as coins. These items may be used to increase the player's score, enhance their abilities, or unlock new levels or characters
 
 ![HealthandLives](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/HealthandLives.png)
-   <i>Health and lives</i>: The player's character may have a limited amount of health or lives that decrease when they take damage from obstacles or hazards. If the character loses all of their health or lives, the game ends and the player must restart from the beginning or a checkpoint.
+&nbsp;&nbsp;&nbsp;&nbsp;<i>Health and lives</i>: The player's character may have a limited amount of health or lives that decrease when they take damage from obstacles or hazards. If the character loses all of their health or lives, the game ends and the player must restart from the beginning or a checkpoint.
 
 ### Interaction
    In a 3D obstacle Odyssey game, the player interacts with the game using controls to move the character and navigate obstacles, adjust the camera angle, use strategy to solve challenges, collect items to progress and increase the score, avoid losing health and lives, and complete challenges to unlock new levels or characters. The game requires the player's active participation and attention to overcome obstacles and progress through the game.
