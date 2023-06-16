@@ -120,11 +120,15 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Click The link Below 
+1. Copy The Link Below And Paste in the Search box of your Web Browser
    ```sh
   <a href = "Link of Files: https://drive.google.com/drive/folders/1mcpxdEI2BsSKup6ooIHAS56lo4CYjogN?usp=share_link"> 
    ```
+2. Download The File
 
+3. install 
+
+4. Done 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
