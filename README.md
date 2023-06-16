@@ -43,12 +43,17 @@ Obstacle Odyssey 3D is a Free and Open-Source Obstacle game made with the [Godot
       <ul>
          <li><a href ="#Goal">Goal</li>
          <li><a href ="#Character">Character</li>
-        <li><a href="#built-with">Built With</a></li>
+         <li><a href ="#Mechanics">Mechanics</li>
+         <li><a href ="#Interaction">Interaction</li>
+         <li><a href ="#Conflict/Challenges">Conflict/Challenges/li>
+         <li><a href ="#Rewards">Rewards</li>
+         <li><a href="#built-with">Built With</a></li>
+         <li><a href ="#Developer">Developer</li>
+          
       </ul>
 
-   <li>
-      
-      <a href="#Game-Overview">Game Overview</a>
+  
+  
   </ol>
  
 </details>
@@ -119,6 +124,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Developer 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Installation
 
