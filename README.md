@@ -1,10 +1,4 @@
-# Obstacle-Odyssey-3D
-A Game project that I created in subject of CC6-Application Development
-
-Obstacle Odyssey 3D is a Free and Open-Source Obstacle game made with the [Godot game engine](https://godotengine.org/). Control your character in 
-
-
-
+ 
 <br> 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -38,6 +32,11 @@ Obstacle Odyssey 3D is a Free and Open-Source Obstacle game made with the [Godot
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+    # Obstacle-Odyssey-3D
+A Game project that I created in subject of CC6-Application Development
+
+Obstacle Odyssey 3D is a Free and Open-Source Obstacle game made with the [Godot game engine](https://godotengine.org/). Control your character in
+
     <a href="https://github.com/KrisChan/Obstacle-Odyssey-3D">View Demo</a>
     ·
     <a href="https://github.com/oKrisChan/Obstacle-Odyssey-3D/issues">Report Bug</a>
