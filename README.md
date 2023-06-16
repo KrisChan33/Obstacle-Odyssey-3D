@@ -122,7 +122,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Click The link Below 
    ```sh
-   [const API_KEY = 'ENTER YOUR API';](https://github.com/KrisChan33/Obstacle-Odyssey-3D/edit/main/README.md#game-overview)
+  <a href = "Link of Files: https://drive.google.com/drive/folders/1mcpxdEI2BsSKup6ooIHAS56lo4CYjogN?usp=share_link"> 
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
