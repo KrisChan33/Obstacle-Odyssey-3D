@@ -96,7 +96,7 @@ The character may have a health bar or lives that decrease when they take damage
 
 <i>Increasing difficulty</i>: As the game progresses, the levels become more challenging, with more complex obstacles and challenges. The user interface may include a map of the level, showing the player's progress and any upcoming obstacles or challenges.
 
-
+<i>Time-based challenges</i>: Some levels may have a time limit, requiring the player to complete a task within a certain amount of time. The user interface may display a timer, as well as any bonuses the player can collect to extend their time.
 ### Built With</p>
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
