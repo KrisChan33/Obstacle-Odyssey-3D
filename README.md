@@ -76,8 +76,7 @@ The character may have a health bar or lives that decrease when they take damage
 </p>
 
 ### Mechanics
-<i>Movement</i>: The player controls a character that can move in all three dimensions. The character can walk, run, jump, and sometimes even fly or swim to navigate through the game's environment.
-![Movement](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/mechanics.png)
+<i>Movement</i>: The player controls a character that can move in all three dimensions. The character can walk, run, jump, and sometimes even fly or swim to navigate through the game's environment. ![Movement](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/mechanics.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Obstacles</i>: The game is filled with various obstacles that the player must avoid or overcome. These can include physical barriers like walls and fences, pits and gaps that must be jumped over, and moving platforms that require careful timing and precision.
 ![Obstacle](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/Obstacles.PNG)
