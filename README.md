@@ -79,7 +79,7 @@ The character may have a health bar or lives that decrease when they take damage
 ![Obstacle](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/Obstacle.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Obstacles</i>: The game is filled with various obstacles that the player must avoid or overcome. These can include physical barriers like walls and fences, pits and gaps that must be jumped over, and moving platforms that require careful timing and precision.
-
+<br/>
 ![Challenges](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/Challenges.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i> Challengess</i>: In addition to avoiding obstacles, the game may have challenges that the player must complete to progress through the levels. These challenges may involve puzzles, mini-games, or tasks that must be completed within a certain time limit.
 
