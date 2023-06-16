@@ -91,6 +91,12 @@ The character may have a health bar or lives that decrease when they take damage
 ### Interaction
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In a 3D obstacle Odyssey game, the player interacts with the game using controls to move the character and navigate obstacles, adjust the camera angle, use strategy to solve challenges, collect items to progress and increase the score, avoid losing health and lives, and complete challenges to unlock new levels or characters. The game requires the player's active participation and attention to overcome obstacles and progress through the game.
 
+### Conflict/Challenges
+<i>Easy levels</i>: The first few levels of the game may be relatively simple, with straightforward obstacles and challenges that allow the player to get familiar with the game. The user interface may display the player's score, the number of lives they have left, and any items they have collected.
+
+<i>Increasing difficulty</i>: As the game progresses, the levels become more challenging, with more complex obstacles and challenges. The user interface may include a map of the level, showing the player's progress and any upcoming obstacles or challenges.
+
+
 ### Built With</p>
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
