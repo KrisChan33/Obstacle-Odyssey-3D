@@ -128,7 +128,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Developer 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h3><b>:sunglasses:Kristian Jay Tadeo</b></h3>
+:sunglasses:Kristian Jay Tadeo
 
 ### Installation
 
