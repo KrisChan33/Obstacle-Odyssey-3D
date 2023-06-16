@@ -45,7 +45,12 @@ Obstacle Odyssey 3D is a Free and Open-Source Obstacle game made with the [Godot
          <li><a href ="#Character">Character</li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
-         </li>
+          
+      <a href="#Game-Overview">Game Overview2</a>
+      
+
+
+     </li>
   </ol>
 </details>
 
@@ -96,6 +101,11 @@ The character may have a health bar or lives that decrease when they take damage
 <i>Increasing difficulty</i>: As the game progresses, the levels become more challenging, with more complex obstacles and challenges. The user interface may include a map of the level, showing the player's progress and any upcoming obstacles or challenges.
 
 <i>Time-based challenges</i>: Some levels may have a time limit, requiring the player to complete a task within a certain amount of time. The user interface may display a timer, as well as any bonuses the player can collect to extend their time.
+
+### Rewards
+Trophies: The player may earn trophies and achievements for completing certain challenges or tasks within the game.
+
+ 
 ### Built With</p>
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
