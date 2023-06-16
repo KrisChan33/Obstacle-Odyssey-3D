@@ -59,12 +59,16 @@ Obstacle Odyssey 3D is a Free and Open-Source Obstacle game made with the [Godot
 
 ### Goal 
 <p>The goal is usually to collect all the coins or complete a series of challenges within a level or set of levels. The game may involve a character navigating through a three-dimensional environment, jumping over obstacles, and avoiding hazards in order to collect the coins or complete the challenges.</p> <br> 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Character
+<p>An adventurous kid wants to explore and challenge himself. He is wearing red hat, brown boots, green shirts and blue short.
+<br />
+The character is typically agile and able to move quickly, jump high, and perform other actions necessary to navigate through the three-dimensional environment and overcome obstacles. The character may also have special abilities or powers that can be used to overcome specific challenges in the game.
+<br />
 
-
+The character may have a health bar or lives that decrease when they take damage from obstacles or hazards in the game, and the player must avoid taking too much damage to prevent losing the game. The character may also be able to collect power-ups or items that enhance their abilities or restore their health.
+</p>
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
