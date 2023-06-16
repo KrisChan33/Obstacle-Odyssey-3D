@@ -6,8 +6,6 @@ A Game project that I created in subject of CC6-Application Development
 
 Obstacle Odyssey 3D is a Free and Open-Source Obstacle game made with the [Godot game engine](https://godotengine.org/). Control your character in 
 
-# Game Overview: 
-<br> 
 ## Goal 
 <p>The goal is usually to collect all the coins or complete a series of challenges within a level or set of levels. The game may involve a character navigating through a three-dimensional environment, jumping over obstacles, and avoiding hazards in order to collect the coins or complete the challenges.</p> <br> 
 
@@ -72,7 +70,7 @@ Obstacle Odyssey 3D is a Free and Open-Source Obstacle game made with the [Godot
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#game-overview">Game Overview</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -254,18 +252,17 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[contributors-shield]: https://img.shields.io/github/contributors/KrisChan33/Obstacle-Odyssey-3D.svg?style=for-the-badge
+[contributors-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/KrisChan33/Obstacle-Odyssey-3D.svg?style=for-the-badge
+[forks-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/network/members
+[stars-shield]: https://img.shields.io/github/stars/KrisChan33/Obstacle-Odyssey-3D.svg?style=for-the-badge
+[stars-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/stargazers
+[issues-shield]: https://img.shields.io/github/issues/KrisChan33/Obstacle-Odyssey-3D.svg?style=for-the-badge
+[issues-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/issues
+[license-shield]: https://img.shields.io/github/license/KrisChan33/Obstacle-Odyssey-3D.svg?style=for-the-badge
+[license-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/master/LICENSE.txt
+[linkedin-url]: https://linkedin.com/in/kristian-jay-tadeo
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
