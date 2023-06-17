@@ -92,14 +92,19 @@ The character may have a health bar or lives that decrease when they take damage
 
 ### Mechanics
 <i>Movement</i>: The player controls a character that can move in all three dimensions. The character can walk, run, jump, and sometimes even fly or swim to navigate through the game's environment. ![Movement](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/mechanics.png)
+<br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Obstacles</i>: The game is filled with various obstacles that the player must avoid or overcome. These can include physical barriers like walls and fences, pits and gaps that must be jumped over, and moving platforms that require careful timing and precision.![Obstacle](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/Obstacles.PNG)
+<br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i> Challengess</i>: In addition to avoiding obstacles, the game may have challenges that the player must complete to progress through the levels. These challenges may involve puzzles, mini-games, or tasks that must be completed within a certain time limit.![Challenges](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/Challenges.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i> Challenges</i>: In addition to avoiding obstacles, the game may have challenges that the player must complete to progress through the levels. These challenges may involve puzzles, mini-games, or tasks that must be completed within a certain time limit.![Challenges](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/Challenges.png)
+<br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<i>Collectibles</i>: Many 3D obstacle games have collectibles scattered throughout the levels, such as coins. These items may be used to increase the player's score, enhance their abilities, or unlock new levels or characters.![Collectibles](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/Collectibles.png)
+<br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Health and lives</i>: The player's character may have a limited amount of health or lives that decrease when they take damage from obstacles or hazards. If the character loses all of their health or lives, the game ends and the player must restart from the beginning or a checkpoint.![HealthandLives](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/HealthandLives.png)
+<br/>
 
 ### Interaction
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In a 3D obstacle Odyssey game, the player interacts with the game using controls to move the character and navigate obstacles, adjust the camera angle, use strategy to solve challenges, collect items to progress and increase the score, avoid losing health and lives, and complete challenges to unlock new levels or characters. The game requires the player's active participation and attention to overcome obstacles and progress through the game.
@@ -126,10 +131,6 @@ This section  list are the major  used to to develop the Project.
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Developer 
-<h3><b>:sunglasses:Kristian Jay Tadeo </b></h3>
-
 
 ## Getting Started 
 
@@ -194,7 +195,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- LICENSE -->
@@ -263,3 +263,8 @@ Email Address: Ktadeo.pbox@parsu.edu.ph
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+
+<hr>
+#### Developer 
+<h3><b>:sunglasses:Kristian Jay Tadeo </b></h3>
+<hr>
