@@ -43,7 +43,7 @@ Obstacle Odyssey 3D is a Free and Open-Source Obstacle game made with the [Godot
          <li><a href ="#Character">Character</li>
          <li><a href ="#Mechanics">Mechanics</li>
          <li><a href ="#Interaction">Interaction</li>
-         <li><a href ="#Conflict/Challenges">Conflict/Challenges/li>
+         <li><a href ="#Conflict/Challenges">Conflict/Challenges</li>
          <li><a href ="#Rewards">Rewards</li>
          <li><a href="#built-with">Built With</a></li>
          <li><a href ="#Developer">Developer</li>
@@ -55,8 +55,8 @@ Obstacle Odyssey 3D is a Free and Open-Source Obstacle game made with the [Godot
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+   <!-- <li><a href="#usage">Usage</a></li> 
+    <li><a href="#roadmap">Roadmap</a></li>-->
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -126,7 +126,7 @@ This section  list are the major  used to to develop the Project.
 
 - [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html)
 
-- [Mixamo: Character](https://godotengine.org/)
+- Mixamo:[Character](https://godotengine.org/)
   
  
 
@@ -151,13 +151,13 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE EXAMPLES 
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
+-->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -200,7 +200,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -265,6 +265,7 @@ Email Address: Ktadeo.pbox@parsu.edu.ph
 [JQuery-url]: https://jquery.com 
 
 <hr>
-#### Developer 
-<h3><b>:sunglasses:Kristian Jay Tadeo </b></h3>
+
+### Developer 
+<h3><b>Kristian Jay Tadeo :sunglasses:</b></h3>
 <hr>
