@@ -266,5 +266,5 @@ Email Address: Ktadeo.pbox@parsu.edu.ph
 <hr>
 
 ### Developer 
-<h3><b>Kristian Jay Tadeo :sunglasses:</b></h3>
+<h3 style="text-align:center"><b>Kristian Jay Tadeo :sunglasses:</b></h3>
 <hr>
